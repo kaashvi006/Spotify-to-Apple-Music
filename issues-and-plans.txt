@@ -1,0 +1,6 @@
+Apple Music Playlist Creation (Advanced)
+1)Enable automatic playlist creation in Apple Music.
+2)Requires Apple Developer Account and MusicKit API integration.
+
+Expand to Other Platforms
+1)Extend to support YouTube Music or other streaming services in the future.
